@@ -1,5 +1,4 @@
-# local data and trained model artifacts
-data/
+# trained model artifacts (regenerate by running the notebook)
 models/
 
 # notebook / OS clutter
