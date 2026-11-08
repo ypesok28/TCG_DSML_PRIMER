@@ -1,0 +1,7 @@
+# local data and trained model artifacts
+data/
+models/
+
+# notebook / OS clutter
+.ipynb_checkpoints/
+.DS_Store
